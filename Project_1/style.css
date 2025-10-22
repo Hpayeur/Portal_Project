@@ -17,3 +17,6 @@
   transition: transform 0.6s;
   transform-style: preserve-3d;
 }
+.card:hover .card-inner {
+  transform: rotate(180deg);
+}
