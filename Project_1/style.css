@@ -5,3 +5,9 @@
   flex-wrap: wrap;
   padding: 1rem;
 }
+.card {
+  width: 250px;
+  height: 350px;
+  perspective: 800px;
+  border-style: none;
+}
