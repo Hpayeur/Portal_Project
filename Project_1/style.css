@@ -35,3 +35,11 @@
   align-items: center;
   justify-content: center;
 }
+.card-back {
+  background-color: #333;
+  color: #fff;
+  transform: rotateY(180deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
