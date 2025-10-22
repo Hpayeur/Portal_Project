@@ -43,8 +43,8 @@
 }
 
 .card-back {
-  background-color: #611818;
-  color: #aa6767;
+  background-color: #aa6767;
+  color: #611818;
   transform: rotateY(180deg);
   display: flex;
   align-items: center;
